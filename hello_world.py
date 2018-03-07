@@ -1,5 +1,9 @@
-print("Hello World!")
+# print "Hello World!"
 x = "Hello Python"
-print(x)
+print x
 y = 42
-print(y)
+print y
+
+
+
+
